@@ -1,2 +1,1 @@
-# practical-statistics-3
-<h1 align="center">Project title</h1>
+<h1 align="center">Linear Regression and Goodness of fit</h1>
