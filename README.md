@@ -1,2 +1,2 @@
 # practical-statistics-3
-coursework done on linear regression in my second year of uni 
+<h1 align="center">Project title</h1>
