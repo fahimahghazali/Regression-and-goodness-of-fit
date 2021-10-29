@@ -1,16 +1,16 @@
 <h1 align="center">Linear Regression and Goodness of fit</h1>
 
-# Project Objective
+### Project Objective
 This project is the final submission of my third coursework doing MATH20811 Practical Statistics on Linear Regression. Based on the data provided, the report explores how they may be related linearly, estimating and commenting through tests on the parameters for the model as well the fitted values. The residuals of the estimation is then looked into to examine the plausibility of the assumptions in the regression model through Normal quantile-quantile plot and goodness-of-fit tests, specifically the Kolmogorov-Smirnov (KS) test.
 
 #### -- Project Status: [Completed]
 
-## Methods used
+### Methods used
 - regression
 - hypotheses testing
 - goodness-of-fit test
 
-# Technologies
+### Technologies
 - LateX
 - R
 
@@ -22,7 +22,7 @@ This project is the final submission of my third coursework doing MATH20811 Prac
 - statistical modeling
 - writeup
 
-# Author
+## Author
 **Nurfahimah Mohd Ghazali**
 
 - [Profile](https://github.com/fahimahghazali "Fahimah Ghazali")
